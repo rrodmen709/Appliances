@@ -9,7 +9,9 @@ package appliances;
  * @author <font color="33FFDD">Rafael Rodriguez</font>
  */
 public class Television extends Appliance {
-
+    /**
+     * Adios
+     */
     private int lenght;
     private boolean WIFI = false;
 
